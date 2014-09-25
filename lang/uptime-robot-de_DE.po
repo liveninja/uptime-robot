@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uptime Robot v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-05 15:05:52+0000\n"
+"Last-Translator: administrator <null@carbon.local>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: class-UptimeRobot.php:82
+#: uptime-robot.php:0
+#@ uptime-robot
+msgid "Uptime Robot"
+msgstr ""
+
+#: class-UptimeRobot.php:185
+#@ uptimerobot
+msgid "Paused"
+msgstr "Pausierend"
+
+#: class-UptimeRobot.php:188
+#@ uptimerobot
+msgid "Unchecked"
+msgstr "Ungeprüft"
+
+#: class-UptimeRobot.php:191
+#@ uptimerobot
+msgid "Up"
+msgstr ""
+
+#: class-UptimeRobot.php:194
+#@ uptimerobot
+msgid "Appears Down"
+msgstr ""
+
+#: class-UptimeRobot.php:197
+#@ uptimerobot
+msgid "Down"
+msgstr ""
+
+#: class-UptimeRobot.php:200
+#@ uptimerobot
+msgid "Unknown"
+msgstr ""
+
+#: class-UptimeRobot.php:214
+#: class-UptimeRobot.php:217
+#@ uptimerobot
+msgid "warning"
+msgstr ""
+
+#: class-UptimeRobot.php:220
+#@ uptimerobot
+msgid "success"
+msgstr ""
+
+#: class-UptimeRobot.php:223
+#: class-UptimeRobot.php:226
+#@ uptimerobot
+msgid "danger"
+msgstr ""
+
+#: class-UptimeRobot.php:229
+#@ uptimerobot
+msgid "info"
+msgstr ""
+
+#: class-UptimeRobot.php:243
+#@ uptimerobot
+msgid "HTTP(S)"
+msgstr ""
+
+#: class-UptimeRobot.php:246
+#@ uptimerobot
+msgid "Keyword"
+msgstr ""
+
+#: class-UptimeRobot.php:249
+#@ uptimerobot
+msgid "Ping"
+msgstr ""
+
+#: class-UptimeRobot.php:252
+#@ uptimerobot
+msgid "Port"
+msgstr ""
+
+#: class-UptimeRobot.php:279
+#@ uptimerobot
+msgid "POP3"
+msgstr ""
+
+#: class-UptimeRobot.php:282
+#@ uptimerobot
+msgid "IMAP"
+msgstr ""
+
+#: class-UptimeRobot.php:324
+#@ uptimerobot
+msgid "ID"
+msgstr ""
+
+#: class-UptimeRobot.php:325
+#@ uptimerobot
+msgid "Status"
+msgstr ""
+
+#: class-UptimeRobot.php:326
+#@ uptimerobot
+msgid "Name"
+msgstr ""
+
+#: class-UptimeRobot.php:327
+#@ uptimerobot
+msgid "Type"
+msgstr ""
+
+#: class-UptimeRobot.php:329
+#@ uptimerobot
+msgid "Ratio"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: uptime-robot.php:0
+#@ uptime-robot
+msgid "http://www.utopianthemes.com/downloads/uptime-robot/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: uptime-robot.php:0
+#@ uptime-robot
+msgid "A simple Wordpress dashboard widget that shows you the current uptime stats of your Uptime Robot monitored websites."
+msgstr "Eine einfache Wordpress-Dashboard Widget, das Sie zeigt die aktuellen Statistiken des uptime Uptime Robot überwacht Websites."
+
+#. translators: plugin header field 'Author'
+#: uptime-robot.php:0
+#@ uptime-robot
+msgid "Brian Welch"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: uptime-robot.php:0
+#@ uptime-robot
+msgid "http://www.utopianthemes.com/"
+msgstr ""
+
+#: class-UptimeRobot.php:267
+#@ uptimerobot
+msgid "HTTP"
+msgstr ""
+
+#: class-UptimeRobot.php:270
+#@ uptimerobot
+msgid "HTTPS"
+msgstr ""
+
+#: class-UptimeRobot.php:273
+#@ uptimerobot
+msgid "FTP"
+msgstr ""
+
+#: class-UptimeRobot.php:276
+#@ uptimerobot
+msgid "SMTP"
+msgstr ""
+
+#: class-UptimeRobot.php:285
+#@ uptimerobot
+msgid "Custom Port"
+msgstr ""
+
+#: class-UptimeRobot.php:328
+#@ uptimerobot
+msgid "Subtype"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: uptime-robot.php:0
+#@ uptime-robot
+msgid "1.0.2"
+msgstr ""
+
